@@ -1,4 +1,4 @@
-### Hi there  👋
+### Hi there, I am Hariprakash 👋
 - 🔭 I’m currently working on  ...custom ROMs
 - 🌱 I’m currently learning ... python and java
 - 👯 I’m looking to collaborate ... on open source projects
