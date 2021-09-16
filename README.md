@@ -8,7 +8,9 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am perfect noobie.
 
+<img src="https://github-readme-stats.vercel.app/api?username=Thunder105&show_icons=true&theme=monokai&count_private=true&show_owner=true&include_all_commits=true">
 
+ ### :grinning: Thank You For Visiting my Profile.
 
 
 
