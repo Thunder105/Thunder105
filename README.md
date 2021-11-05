@@ -1,6 +1,6 @@
 ### Hi there, I am Hariprakash 👋
 - 🔭 I’m currently working on  ...custom ROMs
-- 🌱 I’m currently learning ... python and java
+- 🌱 I’m currently learning ... java
 - 👯 I’m looking to collaborate ... on open source projects
 - 🤔 I’m looking for help with ... many
 - 💬 Ask me about ... fun stuffs
