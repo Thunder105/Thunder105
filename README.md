@@ -1,9 +1,9 @@
 ### Hi there, I am Hariprakash 👋
-- 🔭 I’m currently working on  ...custom ROMs
+- 🔭 I’m currently working on  ... AOSP ROMs
 - 🌱 I’m currently learning ... java
 - 📫 How to reach me:...[Telegram](https://t.me/Thunder105)
 - 😄 Pronouns:...He/Him
-- ⚡ Fun fact:...I am perfect noobie.
+- ⚡ Fun fact:...I am a perfect noobie.
 
 <img src="https://github-readme-stats.vercel.app/api?username=Thunder105&show_icons=true&theme=monokai&count_private=true&show_owner=true&include_all_commits=true">
 
